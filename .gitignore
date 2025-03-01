@@ -1,5 +1,5 @@
-./configstore
-./htop
-./yarn
-./psysh
-./github-copilot
+configstore
+htop
+yarn
+psysh
+github-copilot
